@@ -1,2 +1,2 @@
-# Gaming_Zone
-Gaming Website developed with web technologies
+#GAMING ZONE
+Game using web technologies

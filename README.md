@@ -1,4 +1,4 @@
 #GAMING ZONE
 Games using web technologies
 
-https://shubhamg1311.github.io/Gaming_Zone/
+https://13sg.github.io/Gaming/

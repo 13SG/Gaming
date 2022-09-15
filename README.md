@@ -1,5 +1,5 @@
 #GAMING ZONE
-Games using web technologies.
+Developed games using web technologies.
 
 https://13sg.github.io/Gaming/
 
